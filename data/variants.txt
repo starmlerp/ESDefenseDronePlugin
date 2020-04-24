@@ -1,0 +1,23 @@
+ship "KR:CD-253 Defense Drone" "KR:CD-253 Defense Drone (surveillance)"
+	outfits
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Outfit Scanner"
+		"Cargo Scanner" 2
+		"KP-6 Photovoltaic Panel"
+
+ship "KR:CD-253 Defense Drone" "KR:CD-253 Defense Drone (modified)"
+	outfits
+		"LP036a Battery Pack"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"KP-6 Photovoltaic Panel" 2
+		"Modified Energy Blaster"
+
+ship "KR:CD-253 Defense Drone" "KR:CD-253 Defense Drone (Syndicate)"
+	outfits
+		"LP036a Battery Pack"
+		"X1050 Ion Engines"
+		"KP-6 Photovoltaic Panel" 2
+		"Energy Blaster"

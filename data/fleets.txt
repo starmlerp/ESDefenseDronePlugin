@@ -1,0 +1,17 @@
+fleet "suthern patrol drones"
+	government "Militia"
+	names "militia"
+	personality
+		confusion 40
+		timid frugal appeasing
+	variant 10
+		"KR:CD-253 Defense Drone" 2
+		"KR:CD-253 Defense Drone (surveillance)"
+	variant 5
+		"KR:CD-253 Defense Drone (surveillance)"
+	variant 7
+		"KR:CD-253 Defense Drone" 3
+	variant 2
+		"KR:CD-253 Defense Drone" 5
+	variant 2
+		"KR:CD-253 Defense Drone (modified)" 2
