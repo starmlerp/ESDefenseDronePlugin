@@ -1,9 +1,9 @@
-fleet "suthern patrol drones"
+fleet "southern patrol drones"
 	government "Militia"
-	names "militia"
+	fighters "republic fighter"
+	cargo 0
 	personality
-		confusion 40
-		timid frugal appeasing
+		disables plunders appeasing mining harvests surveillance
 	variant 10
 		"KR:CD-253 Defense Drone" 2
 		"KR:CD-253 Defense Drone (surveillance)"
@@ -11,7 +11,19 @@ fleet "suthern patrol drones"
 		"KR:CD-253 Defense Drone (surveillance)"
 	variant 7
 		"KR:CD-253 Defense Drone" 3
-	variant 2
+fleet "southern defense drones"
+	government "Militia"
+	names "republic fighter"
+	personality 
+		disables plunders appeasing mining harvests surveillance
+	variant 5
+		"KR:CD-253 Defense Drone" 2
+		"KR:CD-253 Defense Drone (surveillance)"
+	variant 5
+		"KR:CD-253 Defense Drone" 3
+	variant 4
 		"KR:CD-253 Defense Drone" 5
+	variant 3
+		"KR:CD-253 Defense Drone" 7
 	variant 2
-		"KR:CD-253 Defense Drone (modified)" 2
+		"KR:CD-253 Defense Drone (modified)" 3
