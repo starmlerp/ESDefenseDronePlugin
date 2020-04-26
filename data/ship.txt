@@ -1,12 +1,14 @@
+
 ship "KR:CD-253 Defense Drone"
 	sprite "ship/defense_drone"
 	thumbnail "thumbnail/defense_drone"
 	attributes
 		category "Drone"
 		"cost" 30000
-		"hull" 450
+		"hull" 250
 		"automaton" 1
-		"mass" 12
+		"mass" 10
+		"cargo" 1
 		"drag" .55
 		"heat dissipation" .9
 		"outfit space" 49
@@ -23,7 +25,6 @@ ship "KR:CD-253 Defense Drone"
 		"X1200 Ion Steering"
 		"LP036a Battery Pack"
 		"Energy Blaster"
-
 	engine -9 29
 	engine 9 29
 	gun 0 -29 "Energy Blaster"
