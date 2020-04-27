@@ -1,3 +1,5 @@
 
 system "Alkaid"
 	fleet "southern patrol drones" 500
+system "Ruticulus"
+	fleet "southern patrol drones" 500
