@@ -1,7 +1,7 @@
 fleet "southern patrol drones"
 	government "Militia"
 	fighters "republic fighter"
-	personality disables plunders appeasing mining harvests surveillance
+	personality disables staying
 	variant 10
 		"KR:CD-253 Defense Drone" 2
 		"KR:CD-253 Defense Drone (surveillance)"
