@@ -2,3 +2,5 @@
 This plugin adds an minimal, license free human drone, available from the get-go. No missions or strings attached! All credit to @Loyse for ship design.
 
 The drone can be found in most human shipyards, particularly Betelgeuse, Southbound and Syndicate ones
+
+To make it actually usable in human fleets, freighter that can carry two of them has also been added!

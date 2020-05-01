@@ -23,3 +23,55 @@ fleet "southern defense drones"
 		"KR:CD-253 Defense Drone" 7
 	variant 2
 		"KR:CD-253 Defense Drone (modified)" 3
+fleet "Small Southern Merchants"
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone (modified)" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone (modified)" 2
+fleet "Small Core Merchants"
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone (modified)" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone (modified)" 2
+fleet "Paradise Merchants"
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone (modified)" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone (modified)" 2
+fleet "Small Northern Merchants"
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter"
+		"KR:CD-253 Defense Drone (modified)" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone" 2
+	variant 5
+		"Modified Freighter (Fancy)"
+		"KR:CD-253 Defense Drone (modified)" 2
