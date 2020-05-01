@@ -29,3 +29,56 @@ ship "KR:CD-253 Defense Drone"
 	gun 0 -29 "Energy Blaster"
 	explode "tiny explosion" 10
 	description "The Korunak Robotics Commercial Drone model series is almost as old as space exploration itself. the first models of this drone were used as surveillance cameras on earth, and later as reconnaissance drones as first colonies were established. They were repurposed as expendable freighter defense vessels during alpha wars, and the main design hasn't changed much since. Since it no longer bears any trademark value, the model 273 is made mostly out of sparingly used aluminium and iron, which gives it poor hull integrity for the sake of affordability and agility"
+
+ship "Modified Freighter"
+	sprite "ship/mfreighter"
+	thumbnail "thumbnail/mfreighter"
+	attributes
+		category "Light Freighter"
+		"cost" 1000000
+		"shields" 2500
+		"hull" 2500
+		"required crew" 4
+		"bunks" 7
+		"mass" 250
+		"drag" 5.6
+		"heat dissipation" .6
+		"fuel capacity" 600
+		"cargo space" 105
+		"outfit space" 300
+		"weapon capacity" 80
+		"engine capacity" 70
+		"drone bays" 2
+		weapon
+			"blast radius" 40
+			"shield damage" 400
+			"hull damage" 200
+			"hit force" 600
+	outfits
+		"Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
+		
+		"nGVF-EE Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Scram Drive"
+		
+	engine -9 97
+	engine 9 97
+	turret 0 -52 "Blaster Turret"
+	turret 0 6 "Heavy Anti-Missile Turret"
+	turret 0 65 "Blaster Turret"
+	drone -12 36 left
+	drone 12 36 right
+	leak "leak" 60 50
+	leak "flame" 50 80
+	explode "tiny explosion" 10
+	explode "small explosion" 30
+	explode "medium explosion" 20
+	"final explode" "final explosion small"
+	description "The Freighter is designed by the Syndicate to be an efficient means of carrying cargo from system to system, but is so slow and difficult to land that most pilots hate flying them."
+	description "	Freighters are an obvious target for pirates, but turn much too slowly to be able to bring any forward-facing guns to bear on an approaching enemy. As a result, the latest model of freighter is equipped only with turrets, including an anti-missile turret to prevent attackers from simply bombarding them into submission from a safe distance."
+
