@@ -21,3 +21,17 @@ ship "KR:CD-253 Defense Drone" "KR:CD-253 Defense Drone (Syndicate)"
 		"X1050 Ion Engines"
 		"KP-6 Photovoltaic Panel" 2
 		"Energy Blaster"
+ship "Modified Freighter" "Modified Freighter (Fancy)"
+	outfits
+		"Laser Turret" 2
+		"Heavy Anti-Missile Turret"
+		"NT-200 Nucleovoltaic"
+		"Supercapacitor"
+		"D14-RN Shield Generator"
+		"Ramscoop"
+		"Greyhound Plasma Thruster"
+		"X3200 Ion Steering"
+		"Scram Drive"
+	turret "Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Laser Turret"

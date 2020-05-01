@@ -7,4 +7,6 @@ shipyard "Megaparsec Basics"
 	"KR:CD-253 Defense Drone"
 shipyard "Syndicate Basics"
 	"KR:CD-253 Defense Drone"
-
+	"Modified Freighter"
+shipyard "Syndicate Advanced"
+	"Modified Freighter"
