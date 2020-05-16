@@ -24,7 +24,7 @@ fleet "southern defense drones"
 	variant 2
 		"Defense Drone (modified)" 3
 fleet "Small Southern Merchants"
-	add add variant 5
+	add variant 5
 		"Modified Freighter"
 		"Defense Drone" 2
 	add variant 5

@@ -100,7 +100,7 @@ ship "Nock"
 			"hull damage" 15
 			"hit force" 55
 	outfits
-		"KP-6 Photovoltaic Panel" 2
+		"KP-6 Photovoltaic Panel" 4
 		"X1050 Ion Engines"
 		"LP036a Battery Pack"
 		"Energy Blaster"
